@@ -14,6 +14,6 @@ PASSWORD = Saka7bliss7.
 ![alt text](MODEL1.png)
 
 
-![alt text](MODEL1.png)
+![alt text](ADMIN.png)
 
 
