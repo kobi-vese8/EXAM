@@ -9,4 +9,11 @@ QUESTION THAT I ANSWERED ARE 1,2,3.
 SUPERUSER USERNAME = user
 PASSWORD = Saka7bliss7.
 
-![alt text](pictures/3a.png)
+![alt text](MODEL3.png)
+![alt text](MODEL2.png)
+![alt text](MODEL1.png)
+
+
+![alt text](MODEL1.png)
+
+
